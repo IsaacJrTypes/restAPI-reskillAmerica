@@ -1,0 +1,14 @@
+{
+  "name": "restapi",
+  "version": "1.0.0",
+  "description": "express setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Isaac Jimenez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
